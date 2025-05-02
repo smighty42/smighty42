@@ -1,5 +1,4 @@
 ![MasterHead](https://cdn.pixabay.com/photo/2017/09/18/14/53/face-2761919_960_720.jpg)
-![GIF Açıklaması](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Serpil MAYTİ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smighty42&label=Profile%20views&color=0e75b6&style=flat" alt="smighty42" /> </p>
